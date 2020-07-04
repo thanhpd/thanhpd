@@ -6,7 +6,7 @@
 - 💬 Ask me about front-end stuff, especially Angular. I'm happy to help!
 - 📫 How to reach me: [@thanhpd](https://twitter.com/thanh_pd)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I love toku & sci-fi shows!
 
 <!--
 **thanhpd/thanhpd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
