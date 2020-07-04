@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on open sourced IELTS Computer-delivered test suite
 - 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on product ideas that will help people ♥
+- 🤝 I’m looking to collaborate on product ideas that will help people ♥
 - 💬 Ask me about front-end stuff, especially Angular. I'm happy to help!
 - 📫 How to reach me: [@thanhpd](https://twitter.com/thanh_pd)
 - 😄 Pronouns: He/Him
