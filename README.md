@@ -1,4 +1,4 @@
-### Hi there, I'm Thanh (Evan) 👋
+### Hi there, I'm Thanh (Theo) 👋
 
 - 🔭 I’m currently working on open sourced IELTS Computer-delivered test suite
 - 🌱 I’m currently learning Machine Learning
